@@ -18,7 +18,7 @@ console.log(run2('carro'));
 function run3(input){
     return input === 'carro' ? true : false;
 }
-console.log(run3('carro'));
+console.log(run3('caro'));
 
 
 
